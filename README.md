@@ -1,11 +1,17 @@
 # Aplicativo de Controle Financeiro
 Este é um aplicativo desenvolvido em React Native para gerenciar suas finanças pessoais. Ele inclui funcionalidades de login, cadastro, visualização de saldo, registro de entradas e saídas, além de um filtro para facilitar a análise dos seus registros.
 
-<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/ea38e255-1e83-4e15-a30c-cc84adf05c66" width="200px"/>
-<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/87012c1c-88ef-4d3b-9c46-08f600ad2bb8" width="200px"/>
-<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/d5a09888-ebda-4d64-8380-0423f82a9ba0" width="200px"/>
-<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/581d5411-efca-44ca-b397-39f8d5dea832" width="200px"/>
-<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/dad49bec-234a-49a8-9c5d-e98a6c16d076" width="200px"/>
+<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/ea38e255-1e83-4e15-a30c-cc84adf05c66" width="250px"/>
+
+<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/87012c1c-88ef-4d3b-9c46-08f600ad2bb8" width="250px"/>
+
+<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/d5a09888-ebda-4d64-8380-0423f82a9ba0" width="250px"/>
+
+<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/581d5411-efca-44ca-b397-39f8d5dea832" width="250px"/>
+
+<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/d3ade4be-1f9d-4547-b9db-4497afb3bd9b" width="250px"/>
+
+<img src="https://github.com/KevynMurilo/AppFinancas/assets/132490286/dad49bec-234a-49a8-9c5d-e98a6c16d076" width="250px"/>
 
 
 
